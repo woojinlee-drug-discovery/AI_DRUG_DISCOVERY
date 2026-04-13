@@ -2,13 +2,6 @@
 
 This repository contains machine learning workflows for DP1 ligand activity modeling and candidate prioritization.
 
-## Repository Structure
-
-```text
-.
-├── ECFP_RF_REGRESSOR/
-└── MOLFORMER_XGBOOST/
-
 ## Overview
 
 This repository includes two parallel modeling approaches for DP1 activity prediction:
